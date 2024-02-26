@@ -1,0 +1,16 @@
+/* global.css */
+@font-face {
+  font-family: 'McLaren';
+  src: url('./McLaren-Regular.ttf') format('tff'); /* 替换为您字体文件的实际路径和格式 */
+}
+
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

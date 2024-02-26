@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "short_name": "Heyam Chat",
+  "name": "Chat Bot with cute boxes",
+  "version": "1.0",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": {
+      "192": "img.png"
+    }
+  },
+  "permissions": [
+    "activeTab"
+  ]
+}
